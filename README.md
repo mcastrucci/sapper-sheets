@@ -3,6 +3,9 @@
 The default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack.
 
 
+![image](https://user-images.githubusercontent.com/33734490/90508190-a2d70580-e12d-11ea-9a92-75a4bb6d1999.png)
+
+
 ## Getting started
 
 
